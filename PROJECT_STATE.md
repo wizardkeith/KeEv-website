@@ -2,6 +2,15 @@
 
 Prepared on 23 October 2026 UTC (24 October 2026 HKT) for [wizardkeith/KeEv-website](https://github.com/wizardkeith/KeEv-website).
 
+Repository synchronization verified at **2026-10-24T00:39:30+08:00** (Asia/Hong_Kong).
+
+## Completed GitHub synchronization
+
+- Imported **14 files** to `main` in [commit 12f309e5147513ed72bdcc38309ed1572b5e163d](https://github.com/wizardkeith/KeEv-website/commit/12f309e5147513ed72bdcc38309ed1572b5e163d).
+- Every prepared file's Git blob hash, byte size and mode matched the remote tree; the branch head was read back after the update. This follow-up updates handoff documentation and its checksum list.
+- This file on `main` is the shared progress entry. Read its current remote version when answering a progress question; local-only changes remain unsynchronized until committed and pushed.
+- The completed import covers the companion materials described below. It does not establish a full Wix backup, a native integration or an ongoing synchronization service.
+
 ## Purpose and repository scope
 
 This is the shared development handoff for the existing KeEv Wix shop at [www.keevgs.com](https://www.keevgs.com/). It holds recovered code snapshots, existing brand assets and project progress so work can continue across computers.
@@ -58,7 +67,7 @@ Separate historical issues were More-menu keyboard opening, the requested Chines
 
 The historical handoff permits product browsing, adding to Cart and Cart use while payment and real ordering remain closed. The recovered backend source retains that restriction. Keep the existing checkout controls, preview disclosures, hidden demo products, product data, policies and branding intact when continuing this project unless the current authorized task explicitly changes that scope.
 
-No Wix content, settings, integrations, checkout controls, publication or deployment were changed by this recovery/import preparation. No current commerce certification is claimed.
+No Wix content, settings, integrations, checkout controls, publication or deployment were changed by this repository import. No current commerce certification is claimed.
 
 ## Completed in this handoff
 

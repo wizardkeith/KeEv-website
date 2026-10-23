@@ -1,5 +1,7 @@
 # KeEv website companion materials
 
+Start with [PROJECT_STATE.md](PROJECT_STATE.md) for the shared progress and completed repository import. Read [AGENTS.md](AGENTS.md) and [the synchronization scope](docs/SYNC_SCOPE.md) before continuing work.
+
 Recovered materials for the KeEv Wix website at [www.keevgs.com](https://www.keevgs.com/).
 
 This repository contains historical Velo backend source snapshots, existing brand assets and a sanitized project handoff. **It is not a complete export of the Wix Editor website and cannot rebuild or deploy the existing visual site.** The Wix page layout, native components, menu configuration and current editor revision are not present as an editable web application here.
@@ -11,7 +13,7 @@ This repository contains historical Velo backend source snapshots, existing bran
 | source-snapshots/2026-10-02/velo/ | The preview-order validation SPI and its config | Exact bytes from the October 2 commerce handoff; historical source, not a fresh export of current Wix code |
 | assets/brand/ | Two existing KeEv logo presentations | Original PNG bytes, renamed for repository use |
 | assets/hero/ | Existing v7C motion banner | Original 1920×640, 60 fps, 12-second MP4 |
-| docs/history/ | Sanitized October 7 verification, native settings and later follow-up instructions | Historical project evidence; current site state has not been established by this recovery |
+| docs/history/ | Sanitized October 7 verification, native settings and later follow-up instructions | Historical project evidence; the current Editor/code revision has not been established by this recovery |
 | RECOVERY_MANIFEST.json | Provenance, hashes, included files and omissions | Identifies original sources and transformations |
 
 ## Historical state and source selection
