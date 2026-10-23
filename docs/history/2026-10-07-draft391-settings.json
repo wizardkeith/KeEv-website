@@ -1,0 +1,81 @@
+{
+  "evidence_date": "2026-10-07",
+  "historical_snapshot_only": true,
+  "current_site_state_verified_during_recovery": false,
+  "public_site": "https://www.keevgs.com/",
+  "historically_observed_saved_draft": {
+    "revision": 391,
+    "localTime": "2026-10-07 06:25 HKT"
+  },
+  "historically_observed_published_revision": {
+    "revision": 387,
+    "localTime": "2026-10-06 18:28 HKT"
+  },
+  "historical_publication_status": "NOT PUBLISHED",
+  "changes_recorded_in_original_evidence": [
+    {
+      "scope": "mobile only",
+      "ids": [
+        "comp-j38dctqw",
+        "comp-kaeyczk5",
+        "comp-j3edf9ai"
+      ],
+      "before": {
+        "entrance": "Fade (UI 淡出)",
+        "durationSeconds": 1.2,
+        "delaySeconds": 0
+      },
+      "after": {
+        "entrance": "None"
+      }
+    },
+    {
+      "id": "comp-muse3xzi",
+      "before": {
+        "mouseEffect": "None"
+      },
+      "after": {
+        "mouseEffect": "Track (軌跡)",
+        "style": "Gentle (溫和)",
+        "direction": "Follow mouse",
+        "distancePixels": 10,
+        "velocity": 4.5,
+        "axes": "Both"
+      },
+      "note": "Native control rounded entered distance 12 to 10. No Velo."
+    },
+    {
+      "id": "comp-musbolmb",
+      "before": {
+        "hoverBorderColor": "#9F44C5",
+        "opacity": 100,
+        "widthPixels": 1
+      },
+      "after": {
+        "hoverBorderColor": "#FFFFFF",
+        "opacity": 100,
+        "widthPixels": 1
+      },
+      "preserved": [
+        "label",
+        "/japan",
+        "120x36",
+        "normal/hover backgrounds",
+        "normal border",
+        "normal shadow"
+      ]
+    }
+  ],
+  "older_recovery_checkpoint": {
+    "revision": 388,
+    "localTime": "2026-10-07 06:08 HKT"
+  },
+  "recovery_caution": "Historical references only. Inspect current Wix history and newer owner work before any restore or publication.",
+  "source_filename": "native-settings-and-recovery.json",
+  "omitted": [
+    "private site/document identifiers",
+    "owner authenticated-session state",
+    "owner cart state",
+    "private session and browser evidence"
+  ]
+}

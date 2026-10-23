@@ -1,0 +1,200 @@
+{
+  "format": "keev-wix-companion-recovery-manifest-v1",
+  "recovered_at_utc": "2026-10-23T16:27:58.667746+00:00",
+  "scope": "Public-safe companion materials, not a complete Wix site export or verified current live-site state.",
+  "read_only_remote_recovery": true,
+  "wix_mutations_performed": false,
+  "github_mutations_performed_by_recovery_agent": false,
+  "included": [
+    {
+      "path": "source-snapshots/2026-10-02/velo/backend/___spi___/ecom-validations/keevPreviewGate/keevPreviewGate.js",
+      "kind": "historical Velo backend source snapshot",
+      "source_date": "2026-10-02",
+      "original_filename": "KeEv-preview-validation.js",
+      "source_sha256": "b41094b16079846a4cd8339d4fb4e1ea76d90eccf1eed402af5aa116cf392b94",
+      "included_sha256": "b41094b16079846a4cd8339d4fb4e1ea76d90eccf1eed402af5aa116cf392b94",
+      "bytes": 1126,
+      "content_unchanged": true,
+      "historical_wix_path": "backend/___spi___/ecom-validations/keevPreviewGate/keevPreviewGate.js",
+      "source_archive": "KeEv-commerce-handoff-20261002.zip",
+      "archive_member": "KeEv-preview-validation.js",
+      "note": "Exact version from the October 2 handoff, which identifies this SPI as published. No current Wix source read or deployment was performed."
+    },
+    {
+      "path": "source-snapshots/2026-10-02/velo/backend/___spi___/ecom-validations/keevPreviewGate/keevPreviewGate-config.js",
+      "kind": "historical Velo backend source snapshot",
+      "source_date": "2026-10-02",
+      "original_filename": "KeEv-preview-validation-config.js",
+      "source_sha256": "93ca76a9049450da6748d4eb96f52182ea86a0910364befad5caaef77a8abaa6",
+      "included_sha256": "93ca76a9049450da6748d4eb96f52182ea86a0910364befad5caaef77a8abaa6",
+      "bytes": 67,
+      "content_unchanged": true,
+      "historical_wix_path": "backend/___spi___/ecom-validations/keevPreviewGate/keevPreviewGate-config.js",
+      "source_archive": "KeEv-commerce-handoff-20261002.zip",
+      "archive_member": "KeEv-preview-validation-config.js",
+      "note": "Exact version from the October 2 handoff, which identifies this SPI as published. No current Wix source read or deployment was performed."
+    },
+    {
+      "path": "assets/brand/keev-logo-horizontal-transparent.png",
+      "kind": "existing project brand asset",
+      "source_date": "2026-09-25",
+      "original_filename": "Logo - 白底紫字 (圖+中+英) 橫+大 (透明).png",
+      "source_sha256": "5be513f9907f0b91f0c99802a002a48e7560974f06af92067c1a77b3aba89d12",
+      "included_sha256": "5be513f9907f0b91f0c99802a002a48e7560974f06af92067c1a77b3aba89d12",
+      "bytes": 55574,
+      "content_unchanged": true,
+      "note": "610 x 264 RGBA PNG. Renamed only; original bytes retained. Existing project asset, no new license grant."
+    },
+    {
+      "path": "assets/brand/keev-logo-circular.png",
+      "kind": "existing project brand asset",
+      "source_date": "2026-09-25",
+      "original_filename": "Logo - 白底紫字 (圖+中+英) 橫.png",
+      "source_sha256": "42436e9686676ff0453dbd343a5455348ee9cb6c5034ec183d7a8798eed0904a",
+      "included_sha256": "42436e9686676ff0453dbd343a5455348ee9cb6c5034ec183d7a8798eed0904a",
+      "bytes": 53543,
+      "content_unchanged": true,
+      "note": "889 x 889 RGBA PNG, circular white presentation. Renamed only; original bytes retained. Existing project asset, no new license grant."
+    },
+    {
+      "path": "assets/hero/keev-hero-v7c-60fps-3x1.mp4",
+      "kind": "existing project hero asset",
+      "source_date": "2026-09-26",
+      "original_filename": "KeEv_OriginalBanner_RefinedMotion_v7C_DappleShadow_Refined_60fps_3x1.mp4",
+      "source_sha256": "6782a690cfd25054e593a5f6e6f3f43a73fe3cfd1aad8ade0b81ef472b857fd3",
+      "included_sha256": "6782a690cfd25054e593a5f6e6f3f43a73fe3cfd1aad8ade0b81ef472b857fd3",
+      "bytes": 4877808,
+      "content_unchanged": true,
+      "note": "1920 x 640, 60 fps, 12 seconds, H.264 video without audio. Renamed only; original bytes retained. Existing project asset, no new license grant."
+    },
+    {
+      "path": "docs/history/2026-10-07-draft391-verification.md",
+      "kind": "sanitized historical evidence report",
+      "source_date": "2026-10-07",
+      "original_filename": "report(3).txt",
+      "source_sha256": "b00bb6944e61e72133220d3df1cef2620ea5d99c19ba236f313e4fbafad6ede0",
+      "included_sha256": "963fe43d7175fc5f1730c4c3d1837d2454acc7d8d17fdd5edfad8578e2198400",
+      "bytes": 14410,
+      "content_unchanged": false,
+      "transformations": [
+        "Added explicit historical scope and source context.",
+        "Removed private feedback short link and wrapper identifier.",
+        "Replaced owner-specific local Downloads path.",
+        "Removed incidental owner-session cart count."
+      ],
+      "source_archive": "keev-draft-391-verification-20261007-01.zip",
+      "archive_member": "report.txt"
+    },
+    {
+      "path": "docs/history/2026-10-07-draft391-settings.json",
+      "kind": "curated historical native settings",
+      "source_date": "2026-10-07",
+      "original_filename": "native-settings-and-recovery.json",
+      "source_sha256": "fcd4b2ebe316690fb9d26467edb079f55b82739a275eaa1288637f690828d805",
+      "included_sha256": "bbaca9afacf77d7b094a9b6f5ff2f68deca20bc0b83f343ddbd3c0a9c31e4535",
+      "bytes": 2105,
+      "content_unchanged": false,
+      "transformations": [
+        "Retained the three native UI change records and historical revisions.",
+        "Removed private identifiers and owner session/cart state.",
+        "Added historical scope and caution against restoring over newer work."
+      ],
+      "source_archive": "keev-draft-391-verification-20261007-01.zip",
+      "archive_member": "native-settings-and-recovery.json"
+    },
+    {
+      "path": "docs/history/2026-10-07-release-followup.md",
+      "kind": "summary of historical next-step instructions",
+      "source_date": "2026-10-07",
+      "original_filename": "KeEv-draft391-final-check-and-authorised-publish-20261007.txt",
+      "source_sha256": "5c512f09d7d36bfedc878885682cda28b439ca4e69adcc20c8e6c96daa30d6b7",
+      "included_sha256": "a97e046297942abbd5b0697c746ccd9c8bba83ad9fc8ab23ea4d8a632e2f2dea",
+      "bytes": 2038,
+      "content_unchanged": false,
+      "transformations": [
+        "Summarized intended checks and scope.",
+        "Omitted private links, local paths and owner-session information.",
+        "Explicitly distinguished instructions from a completed publication result."
+      ]
+    },
+    {
+      "path": "README.md",
+      "kind": "recovery guide",
+      "included_sha256": "16a9e404079cfb25a0cf43473572a4805db388604e47c3a2770440a120573fe1",
+      "bytes": 3801,
+      "content_unchanged": false,
+      "note": "New guide based on the inspected recovery sources."
+    }
+  ],
+  "examined_archives": [
+    {
+      "filename": "keev-draft-391-verification-20261007-01.zip",
+      "files": 26,
+      "classification": "QA report, JSON, screenshots, recording and Python observers; no native visual-site source export."
+    },
+    {
+      "filename": "keev-editor-draft-20261007-01.zip",
+      "files": 79,
+      "classification": "QA report, settings, screenshots and Python observers; no native visual-site source export."
+    },
+    {
+      "filename": "KeEv-commerce-handoff-20261002.zip",
+      "files": 13,
+      "classification": "Commerce report, catalog/localisation snapshots and validation source; the two source files are included."
+    },
+    {
+      "filename": "KeEv-delta-handoff-20261001.zip",
+      "files": 9,
+      "classification": "Reports, snapshots and screenshot; no complete visual-site source export."
+    },
+    {
+      "filename": "KeEv-readonly-diagnostic-pack-20261006.zip",
+      "files": 6,
+      "classification": "Diagnostic script and reports; not website source."
+    },
+    {
+      "filename": "keev-jp-th-browse-2026-10-01.zip",
+      "files": 5,
+      "classification": "Product preview catalog data and instructions; not website source."
+    },
+    {
+      "filename": "KeEv_Wix_Review_Workspace_2026-09-26.zip",
+      "files": 23,
+      "classification": "Instructions, copy, logo, reference images, fonts and screenshots; no application source."
+    }
+  ],
+  "omitted": [
+    {
+      "category": "Complete native Wix Editor site source",
+      "reason": "Not present in inspected archives. Native page/layout/configuration source cannot be reconstructed from screenshots or reports."
+    },
+    {
+      "category": "Raw QA ZIPs, screenshots, recordings, observer scripts, logs and session details",
+      "reason": "Contain authenticated/editor/feedback context or private paths and are not necessary for a public source companion."
+    },
+    {
+      "category": "Private feedback URLs, editor/admin links, private site/document identifiers and owner-specific local paths",
+      "reason": "Removed from public derived material; original evidence remains outside this repository."
+    },
+    {
+      "category": "Earlier 1751-byte validation draft",
+      "reason": "Later October 2 handoff contains the 1126-byte combined-language variant identified as published."
+    },
+    {
+      "category": "Commerce catalog/inventory/settings raw JSON and payment-setting screenshots",
+      "reason": "Not required for the selected source/branding handoff; service metadata and operational settings remain outside this public repository."
+    },
+    {
+      "category": "Unrelated accounting backup and diagnostic files",
+      "reason": "Top-level schema identified accounting data rather than Wix site source; excluded without inspecting transaction content."
+    },
+    {
+      "category": "Bundled fonts and older reference images",
+      "reason": "Not required for selected assets; redistribution license was not established by this recovery."
+    },
+    {
+      "category": "Git credentials, browser profiles and customer data",
+      "reason": "Not part of this recovery deliverable."
+    }
+  ]
+}
